@@ -14,7 +14,7 @@ This repository highlights practical data cleaning, multi-source aggregation, an
 
 | Folder | Project Name | Core Tools | Primary Focus |
 | :--- | :--- | :--- | :--- |
-| `/01_Bird_Species_Observation` | **Bird Species Observation & Spatial Distribution** | Python, Pandas, Matplotlib, Excel | Geospatial clustering, seasonal frequency & habitat trends |
+| `/01_Bird_Species_Observation Analysis` | **Bird Species Observation & Spatial Distribution** | Python, Pandas, Matplotlib, Excel | Geospatial clustering, seasonal frequency & habitat trends |
 | `/02_Strava_Fitness_Behavior` | **Strava Fitness Activity & User Behavior Analysis** | Python, SQL, Tableau / Power BI | User engagement, activity telemetry & retention trends |
 | `/03_Uber_Supply_Demand_Gap` | **Uber Ride Supply & Demand Gap Analysis** | Python, SQL, Power BI / Excel | Peak-hour bottleneck & cancellation root-cause analysis |
 
@@ -23,7 +23,7 @@ This repository highlights practical data cleaning, multi-source aggregation, an
 ## 📂 Featured Projects
 
 
-### 1. Bird Species Observation & Spatial Distribution Analysis (`_Bird_Species_Observation`)
+### 1. Bird Species Observation & Spatial Distribution Analysis (`_Bird_Species_Observation_Analysis`)
 * **Business Problem:** Evaluate longitudinal ecological field logs to understand species sighting frequency, habitat preferences, and seasonal migration patterns across regions.
 * **Methodology:**
   * Preprocessed multi-year observation records in Python, standardizing taxonomic names, observation timestamps, and geographic coordinates.
