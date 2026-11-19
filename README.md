@@ -23,7 +23,7 @@ This repository highlights practical data cleaning, multi-source aggregation, an
 ## 📂 Featured Projects
 
 
-### 1. Bird Species Observation & Spatial Distribution Analysis (`/03_Bird_Species_Observation`)
+### 1. Bird Species Observation & Spatial Distribution Analysis (`_Bird_Species_Observation`)
 * **Business Problem:** Evaluate longitudinal ecological field logs to understand species sighting frequency, habitat preferences, and seasonal migration patterns across regions.
 * **Methodology:**
   * Preprocessed multi-year observation records in Python, standardizing taxonomic names, observation timestamps, and geographic coordinates.
@@ -32,7 +32,7 @@ This repository highlights practical data cleaning, multi-source aggregation, an
 * **Key Insights & Impact:** Uncovered distinct seasonal migration surges and habitat-specific clustering patterns, translating raw ecological logs into clear visual summaries for conservation and spatial monitoring.
 ---
 
-### 2. Strava Fitness Activity & User Behavior Analysis (`/02_Strava_Fitness_Behavior`)
+### 2. Strava Fitness Activity & User Behavior Analysis (`_Strava_Fitness_Behavior`)
 * **Business Problem:** Analyze multi-user wearable fitness telemetry to uncover activity consistency, calorie expenditure patterns, and factors driving long-term user engagement.
 * **Methodology:**
   * Merged and queried daily step, distance, active-minute, heart-rate, and sleep datasets using SQL and Python (`Pandas`).
@@ -41,7 +41,7 @@ This repository highlights practical data cleaning, multi-source aggregation, an
 * **Key Insights & Impact:** Identified sharp weekend activity drop-offs among moderately active users and demonstrated strong correlations between daily active minutes, sleep consistency, and sustained app engagement.
 
 ---
-### 3. Uber Ride Supply & Demand Gap Analysis (`/01_Uber_Supply_Demand_Gap`)
+### 3. Uber Ride Supply & Demand Gap Analysis (`_Uber_Supply_Demand_Gap`)
 * **Business Problem:** Diagnose why ride-request failures—specifically driver cancellations and *"No Cars Available"* errors—spike during critical operational windows and across pickup zones.
 * **Methodology:**
   * Cleaned and standardized timestamped trip logs in Python and SQL, resolving missing driver IDs and formatting inconsistencies.
